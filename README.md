@@ -82,6 +82,8 @@ When creating or updating an article, follow these steps in Postman to send the 
 
 ![View Certificate](https://portfolio-4oh.pages.dev/images/cert-java-backend.webp)
 
+[Open Badge](https://openbadgefactory.com/obv3/credentials/f0b662e85c9ee3c1675101ae4fce7b511105dc0c)
+
 ---
 
 ### 📝 Project Evolution
